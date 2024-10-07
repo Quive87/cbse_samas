@@ -18,10 +18,5 @@ Here are some examples of the compound words included in this project:
 - **शोधकार्य**: शोध का कार्य (तत्पुरुष समास)
 - **मदमस्त**: मद से मस्त (तत्पुरुष समास)
 
-## Installation
-To use the Samas Helper AI project, clone this repository and run the necessary scripts.
-
-```bash
-git clone https://github.com/yourusername/Samas-Helper-AI.git
-cd Samas-Helper-AI
-# Additional setup instructions if any
+## Usage
+Its free use it on the link in this repository
